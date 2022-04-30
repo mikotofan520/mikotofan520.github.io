@@ -1,11 +1,12 @@
 # Setup
-title: 北川译Studio - 灰色高中生
-description: 烟火向星辰 所愿皆成真 B站：北川译Studio
+title: 北川译Studio
+description: 烟火向星辰 所愿皆成真
+B站：北川译Studio
 url: https://mikotofan520.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
@@ -33,10 +34,10 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Xuruizhe
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/Mikotofan520
+    - https://github.com/mikotofan520
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +55,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: XRZ
+  url: https://github.com/mikotofan520/
+  email: shabexrz@163.com
